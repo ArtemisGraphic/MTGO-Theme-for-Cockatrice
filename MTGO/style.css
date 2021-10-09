@@ -94,6 +94,7 @@ QCheckBox, QRadioButton, QLabel {
 QToolTip {
   background: qlineargradient(x1:0 y0:1, x2:0 y2:1,stop:0 #fffffe, stop:1 #ebc87f);
   border: 2px solid #996600;
+  color: #000;
 }
 
 /* ------------------------------------------------------ */
